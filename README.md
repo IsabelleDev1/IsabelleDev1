@@ -1,6 +1,6 @@
 # Olá, sou a Isabelle! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por Inteligência Artificial, Generative AI e automação.
 
 ## 🚀 Tecnologias
 <div style="display: inline_block"><br>
